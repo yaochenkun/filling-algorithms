@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ken\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\MyProgram\Android\ScanLineTest\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_95f11f19effd0d434303c795d09963fc97c24ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyProgram\Android\ScanLineTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3602f0c6d76b60bb347a7a7ba39b33ec76d30e8f">
+        <dex dex="F:\MyProgram\Android\ScanLineTest\app\build\intermediates\pre-dexed\debug\instant-run_3dbf925b0bf101565468ce49883102b57b68d6b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyProgram\Android\ScanLineTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ee26c167acb081a64c751a94a1e8a92877120e5">
+        <dex dex="F:\MyProgram\Android\ScanLineTest\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_651a14da3c4b9c7626f6da8fed21dca34ece159d.jar" />
+    </item>
+
+</items>
