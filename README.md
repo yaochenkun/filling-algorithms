@@ -10,8 +10,7 @@ A test program that gathers 6 Filling Algorithms based on Android and implemente
 
 ## How to Use and Test
 1. Draw a polygon on the canvas as you want.
-2. Click a button below (i.e. a filling algorithm) to fill the polygon with red color.
-3. Notes:
+2. Click a button below (i.e. a filling algorithm) to fill the polygon with red color.Notes:
  * if you choose 'Seed Filling Algorithm (the first button)' or 'Scanline Filling Algorithm (the third button)', you must have to click anywhere in polygon to appoint a point (i.e. the seed). Only in this way can these 2 filling processes begin.
  * if you choose the other algorithms, you don't have to take any other subsequent actions.
 
