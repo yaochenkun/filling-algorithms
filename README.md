@@ -32,5 +32,6 @@ A testing program that gathers 4 Filling Algorithms based on Android and impleme
 * Install __Android SDK 4.4__ but is not necessary.
 * Import the whole project __'ScanlineTest'__ into Android Studio.
 * At last, maybe you should enter __'File > Settings > Editor > File Encodings'__ and adjust __'IDE Encoding'__, __'Project Encoding'__ and __'Default encoding for properties files'__ to __'GBK'__.
+
 ## For More
 If you are interested in 'Filling Algorithms', you could refer to some books about 'Computer Graphics'.
