@@ -12,7 +12,7 @@ A testing program that gathers 4 Filling Algorithms based on Android and impleme
   
 * __Active-edge-table Filling Algorithm (活性边表填充算法)__:<br>
   该算法让扫描线以1像素的增量自下而上地扫描多边形，并利用边的斜率k计算增量值，从而快速定位下一步的端点坐标。<br>
-  In this program, I have improved the traditional active-edge-table filling algorithm and make it enable to adaptively find the better scanning direction.If you want to learn more please refer to file '[一种强鲁棒性自适应活性边表算法.pdf](https://github.com/yaochenkun/FillingAlgorithms/blob/master/一种强鲁棒性自适应活性边表算法.pdf)' in this repository.
+  In this program, I have improved the traditional active-edge-table filling algorithm and make it enable to adaptively find the better scanning direction.If you want to learn more please refer to file [一种强鲁棒性自适应活性边表算法.pdf](https://github.com/yaochenkun/FillingAlgorithms/blob/master/一种强鲁棒性自适应活性边表算法.pdf) in this repository.
   
 ## ScreenShot
 ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/scanline.png)
