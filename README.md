@@ -17,7 +17,7 @@ A testing program that gathers 4 Filling Algorithms based on Android and impleme
 ## ScreenShot
 ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/scanline.png)
 
-## How to Use and Test
+## How to Test
 1. Draw a polygon on the canvas as you want.
 2. Click a button below (i.e. a filling algorithm) to fill the polygon with red color.__Notes__:
  * if you choose __'Seed Filling Algorithm (the first button)'__ or __'Scanline Filling Algorithm (the third button)'__, you must have to click anywhere in polygon to appoint a point (i.e. the seed). Only in this way can these 2 filling processes begin.
@@ -26,6 +26,13 @@ A testing program that gathers 4 Filling Algorithms based on Android and impleme
  * the __first three__ buttons in __the second row__ respectively mean scaning the polygon in portrait, landscape and the best direction __when use Active-edge-table Filling Algorithm__.
  * the __last__ button in __the first row__ means scanning without checking and correcting the x coordinates of the adjoining crossover points in polygon __when use Active-edge-table Filling Algorithm__.
  * the __last__ button in __the second row__ means clearing the canvas.
+
+## Test Result
+Look at the top left corner:
+* 外接矩形面积(Area of Bounding Rectangle)：means the area of bounding rectangle for the polygon.
+* 横度 (Horizontal Extent): means the offset or stretching extent in horizontal direction for the polygon.
+* 纵度 (Vertical Extent): means the offset or stretching extent in vertical direction for the polygon.
+* 运行时间 (Runtime): means the runtime of the alogrithm you select.
 
 ## Environment and Settings
 * Download and install [Android Studio](http://www.android-studio.org/index.php/component/content/category/88-download).
