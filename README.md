@@ -5,7 +5,7 @@ A testing program that gathers 4 Filling Algorithms based on Android and impleme
   In this program this algorithm is easily to cause 'Stack Overflow', so it is usually Not Recommended。
   
 * __Point-by-point Filling Algorithm (逐点判断算法)__:<br>
-  基于像素，对绘图窗口内每一像素点进行射线环绕探测来实现内点判定，孤立地考虑像素点与区域间的关系，计算量较大。
+  基于像素，对绘图窗口内每一像素点进行射线环绕探测来实现内点判定，孤立地考虑像素点与区域的关系，计算量较大。
   
 * __Scanline Filling Algorithm (扫描线填充算法)__:<br>
   扫描线填充算法也需给定一种子点，分别水平向右和向左地探测得到图形边界点，填充两端点之间的线段，并让该线段之上和之下的任意内点入栈，继而栈顶像素点出栈作为新的种子点，重复上述操作至栈空。
