@@ -29,10 +29,10 @@ A testing program that gathers 4 Filling Algorithms based on Android and impleme
 
 ## Test Result
 Look at the top left corner:
-* 外接矩形面积(Area of Bounding Rectangle)：means the area of bounding rectangle for the polygon.
-* 横度 (Horizontal Extent): means the offset or stretching extent in horizontal direction for the polygon.
-* 纵度 (Vertical Extent): means the offset or stretching extent in vertical direction for the polygon.
-* 运行时间 (Runtime): means the runtime of the alogrithm you select.
+* __外接矩形面积(Area of Bounding Rectangle)__: means the area of bounding rectangle for the polygon.
+* __横度 (Horizontal Extent)__: means the offset or stretching extent in horizontal direction for the polygon.
+* __纵度 (Vertical Extent)__: means the offset or stretching extent in vertical direction for the polygon.
+* __运行时间 (Runtime)__: means the runtime of the alogrithm you select.
 
 ## Environment and Settings
 * Download and install [Android Studio](http://www.android-studio.org/index.php/component/content/category/88-download).
