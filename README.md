@@ -34,7 +34,7 @@ Look at the top left corner:
 * __纵度 (Vertical Extent)__: means the offset or stretching extent in vertical direction for the polygon.
 * __运行时间 (Runtime)__: means the runtime of the alogrithm you select.
 
-## Environment and Settings
+## Environment and Configurations
 * Download and install [Android Studio](http://www.android-studio.org/index.php/component/content/category/88-download).
 * Install __Android SDK 4.4__ but is not necessary.
 * Import the whole project __'ScanlineTest'__ into Android Studio.
