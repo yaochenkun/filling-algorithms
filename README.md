@@ -15,7 +15,7 @@ A testing program that gathers 4 Filling Algorithms based on Android and impleme
   In this program, I have improved the traditional active-edge-table filling algorithm and make it enable to adaptively find the better scanning direction.If you want to learn more please refer to file [一种强鲁棒性自适应活性边表算法.pdf](https://github.com/yaochenkun/FillingAlgorithms/blob/master/一种强鲁棒性自适应活性边表算法.pdf) in this repository.
   
 ## ScreenShot
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/scanline.png)
+![](http://yaochenkun.cn/wp-content/uploads/2017/01/scanline.png)
 
 ## How to Test
 1. Draw a polygon on the canvas as you want.
